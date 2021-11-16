@@ -1,0 +1,53 @@
+select{
+    width: 10rem;
+    height: 2rem;
+    margin-top: 2rem;
+    margin-right: .5rem;
+    margin-left: 2rem;
+}
+.head-h1{
+    margin-left: 2rem;
+}
+.scirpture{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border: 2px solid lightgray;
+}
+.scirpture p {
+    font-size: 30px;
+    font-family:fantasy;
+}
+.hear{
+    background-color: rgb(235, 243, 246);
+    border: 1px solid darkgray 12%;
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+.entry-container{
+    border: 2px solid darkgray ;
+    border-radius: 12%;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    max-width: 50rem;
+}
+.entry-date{
+    margin-left: 2rem;
+}
+
+.form-group{
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    background-color: rgb(235 , 243, 249);
+    border-radius: 5%;
+}
+.form-group textarea{
+    width: 100%;
+    height: 100%; 
+    box-sizing: border-box;
+    margin-bottom: 1rem;
+}

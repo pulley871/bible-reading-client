@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { Bible } from './components/Bible';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Bible />
   </React.StrictMode>,
   document.getElementById('root')
 );
